@@ -33,7 +33,7 @@ Use these symbols /* and */
 // ; to end a line
 // {} to show a code block
 
-// Variables in C#endregion
+// Variables in C#
 // A variable is a holder of information
 // Many different types :
 // int - integer
