@@ -52,6 +52,13 @@ int myInt = (int) doubleVar;    // Manual casting: double to int
 Console.WriteLine(myDouble);   // Outputs 1114.53
 Console.WriteLine(myInt);      // Outputs 1114
 
+// More methods include
+// Convert.ToBoolean()
+// Convert.ToDouble()
+// Convert.ToString()
+// Convert.ToInt32 (int)
+// Convert.ToInt64 (long)
+
 // C# Operators
 // +	Addition	Adds together two values	x + y	
 // -	Subtraction	Subtracts one value from another	x - y	

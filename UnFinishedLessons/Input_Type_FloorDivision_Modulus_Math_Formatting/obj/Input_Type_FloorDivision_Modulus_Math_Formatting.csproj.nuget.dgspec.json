@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj": {}
+    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj": {}
   },
   "projects": {
-    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj": {
+    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj",
+        "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj",
         "projectName": "Input_Type_FloorDivision_Modulus_Math_Formatting",
-        "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj",
+        "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Input_Type_FloorDivision_Modulus_Math_Formatting/Input_Type_FloorDivision_Modulus_Math_Formatting.csproj",
         "packagesPath": "/Users/thomas/.nuget/packages/",
-        "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Input_Type_FloorDivision_Modulus_Math_Formatting/obj/",
+        "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Input_Type_FloorDivision_Modulus_Math_Formatting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thomas/.nuget/NuGet/NuGet.Config"

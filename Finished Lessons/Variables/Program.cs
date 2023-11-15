@@ -8,7 +8,7 @@ Console.WriteLine("Hello, World!");
 
 
 // To make a file, you must use the command "dotnet new console -o (name of project)"
-
+// To run, "dotnet run"
 // A more proper program would be using System;
 // using System; // Use classes from the system namespace
 
