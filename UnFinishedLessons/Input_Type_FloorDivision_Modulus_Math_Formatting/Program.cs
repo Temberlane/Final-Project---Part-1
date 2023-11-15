@@ -15,3 +15,10 @@ int age = Console.ReadLine();
 Console.WriteLine("Age is " + age);
 // This would return an error saying that cannot implicitly convert 'string' to 'int'
 
+// You must explicitly convert string to int.
+Console.WriteLine("Enter your age:");
+int age = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Age is " + age);
+
+// Floor Division (Integer Division)
+
