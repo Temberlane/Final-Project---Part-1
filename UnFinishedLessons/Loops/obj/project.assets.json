@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Loops/Loops.csproj",
+      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Loops/Loops.csproj",
+      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/Loops.csproj",
       "packagesPath": "/Users/thomas/.nuget/packages/",
-      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Loops/obj/",
+      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thomas/.nuget/NuGet/NuGet.Config"

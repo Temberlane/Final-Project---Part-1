@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/LogicalOperators_IfStatements/LogicalOperators_IfStatements.csproj",
+      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/LogicalOperators_IfStatements/LogicalOperators_IfStatements.csproj",
       "projectName": "LogicalOperators_IfStatements",
-      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/LogicalOperators_IfStatements/LogicalOperators_IfStatements.csproj",
+      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/LogicalOperators_IfStatements/LogicalOperators_IfStatements.csproj",
       "packagesPath": "/Users/thomas/.nuget/packages/",
-      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/LogicalOperators_IfStatements/obj/",
+      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/LogicalOperators_IfStatements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thomas/.nuget/NuGet/NuGet.Config"

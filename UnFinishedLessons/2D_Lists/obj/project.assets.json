@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/2D_Lists/2D_Lists.csproj",
+      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/2D_Lists/2D_Lists.csproj",
       "projectName": "2D_Lists",
-      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/2D_Lists/2D_Lists.csproj",
+      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/2D_Lists/2D_Lists.csproj",
       "packagesPath": "/Users/thomas/.nuget/packages/",
-      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/2D_Lists/obj/",
+      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/2D_Lists/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thomas/.nuget/NuGet/NuGet.Config"

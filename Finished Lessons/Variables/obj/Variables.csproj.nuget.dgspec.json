@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Variables/Variables.csproj": {}
+    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/Variables/Variables.csproj": {}
   },
   "projects": {
-    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Variables/Variables.csproj": {
+    "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/Variables/Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Variables/Variables.csproj",
+        "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/Variables/Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Variables/Variables.csproj",
+        "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/Variables/Variables.csproj",
         "packagesPath": "/Users/thomas/.nuget/packages/",
-        "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Variables/obj/",
+        "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/Variables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thomas/.nuget/NuGet/NuGet.Config"

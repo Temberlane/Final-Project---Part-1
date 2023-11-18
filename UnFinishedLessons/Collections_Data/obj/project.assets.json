@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Collections_Data/Collections_Data.csproj",
+      "projectUniqueName": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/Collections_Data.csproj",
       "projectName": "Collections_Data",
-      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Collections_Data/Collections_Data.csproj",
+      "projectPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/Collections_Data.csproj",
       "packagesPath": "/Users/thomas/.nuget/packages/",
-      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Collections_Data/obj/",
+      "outputPath": "/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thomas/.nuget/NuGet/NuGet.Config"
