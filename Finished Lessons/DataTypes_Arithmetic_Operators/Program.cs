@@ -33,7 +33,7 @@ Console.WriteLine(myfloat);
 bool running, walking;
 running = true;
 walking = false;
-Console.WriteLine(running, walking)
+Console.WriteLine(running, walking);
 
 // Type casting
 // When you assign a value of one data type to another type
