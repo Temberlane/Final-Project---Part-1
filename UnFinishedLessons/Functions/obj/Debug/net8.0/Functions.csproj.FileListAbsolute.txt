@@ -1,0 +1,15 @@
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/bin/Debug/net8.0/Functions
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/bin/Debug/net8.0/Functions.deps.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/bin/Debug/net8.0/Functions.runtimeconfig.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/bin/Debug/net8.0/Functions.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/bin/Debug/net8.0/Functions.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.AssemblyInfo.cs
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.sourcelink.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/refint/Functions.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/Functions.genruntimeconfig.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Functions/obj/Debug/net8.0/ref/Functions.dll
