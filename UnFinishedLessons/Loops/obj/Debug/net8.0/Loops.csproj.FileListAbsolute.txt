@@ -1,0 +1,15 @@
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.AssemblyInfo.cs
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.sourcelink.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/bin/Debug/net8.0/Loops
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/bin/Debug/net8.0/Loops.deps.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/bin/Debug/net8.0/Loops.runtimeconfig.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/bin/Debug/net8.0/Loops.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/bin/Debug/net8.0/Loops.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/refint/Loops.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/Loops.genruntimeconfig.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Loops/obj/Debug/net8.0/ref/Loops.dll
