@@ -33,7 +33,7 @@ Console.WriteLine(myfloat);
 bool running, walking;
 running = true;
 walking = false;
-Console.WriteLine(running, walking);
+Console.WriteLine(running.ToString(), walking.ToString());
 
 // Type casting
 // When you assign a value of one data type to another type
@@ -49,7 +49,7 @@ Console.WriteLine(newDouble);
 // double -> float -> long -> int -> char
 double doubleVar = 1114.53;
 int myInt = (int) doubleVar;    // Manual casting: double to int
-Console.WriteLine(myDouble);   // Outputs 1114.53
+Console.WriteLine(doubleVar);   // Outputs 1114.53
 Console.WriteLine(myInt);      // Outputs 1114
 
 // More methods include

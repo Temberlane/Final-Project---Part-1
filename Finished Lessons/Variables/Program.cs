@@ -48,9 +48,9 @@ int num = 5; // This would set num to the integer 5
 // To print it 
 Console.WriteLine(num);
 // You can also declare an empty variable
-int num;
-num = 20;
-Console.WriteLine(num);
+int num1;
+num1 = 20;
+Console.WriteLine(num1);
 //There are rules for variables names:
 // Variable names can only contain letters, digits, and the underscore _
 // Variable names must start with a letter. 
@@ -59,5 +59,5 @@ Console.WriteLine(num);
 
 // There are also constants that make it so that you cannot change variables
 
-const int num = 5;
-num = 10 // would return an error
+const int num2 = 5;
+// num2 = 10 // would return an error
