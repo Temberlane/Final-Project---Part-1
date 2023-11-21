@@ -1,0 +1,15 @@
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/bin/Debug/net8.0/Collections_Data
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/bin/Debug/net8.0/Collections_Data.deps.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/bin/Debug/net8.0/Collections_Data.runtimeconfig.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/bin/Debug/net8.0/Collections_Data.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/bin/Debug/net8.0/Collections_Data.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.AssemblyInfo.cs
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.sourcelink.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/refint/Collections_Data.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/Collections_Data.genruntimeconfig.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/UnFinishedLessons/Collections_Data/obj/Debug/net8.0/ref/Collections_Data.dll
