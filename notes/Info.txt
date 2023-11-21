@@ -1,4 +1,0 @@
-Choose and learn a new programming language - write it as a private comment for approval. You cannot get started if it isn't approved.
-Create lessons notes in similar format to the notes given in Grade 11 (up to 2D Lists). If you want to do a different format (like markdown or powerpoint), please discuss with me first.
-Create three exercise questions per Programming Topic with solutions. 
-Teach the class one of the lessons - there will be a sign up later.
