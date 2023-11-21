@@ -1,0 +1,15 @@
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/bin/Debug/net8.0/DataTypes_Arithmetic_Operators
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/bin/Debug/net8.0/DataTypes_Arithmetic_Operators.deps.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/bin/Debug/net8.0/DataTypes_Arithmetic_Operators.runtimeconfig.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/bin/Debug/net8.0/DataTypes_Arithmetic_Operators.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/bin/Debug/net8.0/DataTypes_Arithmetic_Operators.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.AssemblyInfo.cs
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.sourcelink.json
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/refint/DataTypes_Arithmetic_Operators.dll
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.pdb
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/DataTypes_Arithmetic_Operators.genruntimeconfig.cache
+/Users/thomas/Desktop/finalproject/Final-Project---Part-1/Finished Lessons/DataTypes_Arithmetic_Operators/obj/Debug/net8.0/ref/DataTypes_Arithmetic_Operators.dll
