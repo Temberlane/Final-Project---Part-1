@@ -67,7 +67,8 @@ while (true)
 static string[] AppendItem(string[] array, string newItem)
 {
     Array.Resize(ref array, array.Length + 1);
-    array[array.Length - 1] = newItem;
+    int lastIndex = array.Length - 1;
+    array[lastIndex] = newItem;
     Console.WriteLine($"{newItem} has been appended to the array.");
     return array;
 }
@@ -77,7 +78,17 @@ static string[] DeleteItem(string[] array, string itemToDelete)
     int index = Array.IndexOf(array, itemToDelete);
     if (index != -1)
     {
-        array = array.Where((source, i) => i != index).ToArray();
+        T[] newArray = new T[array.Length - 1];
+
+        for (int i = 0, j = 0; i < array.Length; i++)
+        {
+            if (i != index)
+            {
+                newArray[j] = array[i];
+                j++;
+            }
+        }
+        array = newArray;
         Console.WriteLine($"{itemToDelete} has been deleted from the array.");
     }
     else

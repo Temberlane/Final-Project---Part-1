@@ -76,3 +76,11 @@ Dictionary<string, int> newDict = new Dictionary<string, int>(); // This creates
 newDict.Add("One", 1);
 // Getting value uses get
 int value = newDict["One"];
+
+
+// There are also many methods assosiated with arrays such as
+// IndexOf(array, item)
+// Returns index of item
+// Also Resize along with the ref keyword
+// ref will pass by reference (the memory of the data not just the data)
+// Resize(array, new array length)
